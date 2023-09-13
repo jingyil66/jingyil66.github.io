@@ -1,7 +1,6 @@
 ---
-title: "."
+title: "JINGYI LIAO"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello world!
+My name is Jingyi Liao.
